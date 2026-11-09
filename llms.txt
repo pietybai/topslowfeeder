@@ -1,0 +1,54 @@
+﻿# Qidian Pet
+
+> Qidian Pet (topslowfeeder.com) is a B2B manufacturer and supplier of pet slow feeding products based in Shenzhen, China. We provide wholesale, OEM/ODM customization, and Amazon FBA direct shipping for global pet brands, distributors, and Amazon FBA sellers.
+
+Shenzhen Qidian Electronic Technology Co., Ltd. is the operating company behind the Qidian Pet brand. Our core product range is pet slow feeding products: silicone slow feeder mats, dog lick mats, and slow feeder bowls for dogs and cats. All products use food-contact safe silicone, support custom logo / color / size / packaging, and can be shipped directly to Amazon fulfillment centers with FBA-compliant labeling (FNSKU barcodes, poly-bagging, retail boxes).
+
+## Core Products (4)
+
+- [Tree-Pattern Round Slow Feeder Mat](https://www.topslowfeeder.com/products/silicone-slow-feeder-mat/): Round silicone slow feeder mat with raised tree-branch pattern. Diameter 210mm, thickness 9mm, 7 colors, custom logo and color for OEM. SKU QD-CP1050.
+- [Multi-Zone Slow Feeder & Lick Mat](https://www.topslowfeeder.com/products/multi-zone-lick-mat/): Rectangular multi-zone silicone slow feeder and lick mat. 304x204mm, 7 colors, suction base, custom logo for OEM/ODM.
+- [2-in-1 Slow Feeder & Lick Bowl Tray](https://www.topslowfeeder.com/products/2in1-slow-feeder-bowl/): 2-in-1 silicone slow feeder and lick bowl with anti-spill tray. 342x177x68mm, custom logo for OEM/ODM.
+- [Paw-Shaped Mat & Frozen Treat Mold Set](https://www.topslowfeeder.com/products/paw-shaped-mat-mold-set/): Paw-shaped silicone slow feeder mat with matching frozen treat mold. 175mm mat, 6 colors, sold as set or separately, custom logo for OEM.
+
+## Services
+
+- [OEM/ODM Service](https://www.topslowfeeder.com/oem-odm.html): Full customization — custom logo & branding, color (Pantone match), size, material, packaging. Sample in ~7 days, bulk production 15–25 days after sample approval.
+- [Amazon FBA Supply](https://www.topslowfeeder.com/for-amazon-sellers.html): FBA-ready fulfillment. FNSKU barcode application, poly-bagging / retail box packaging, carton labeling, direct shipment to Amazon FCs in US, UK, EU. Low MOQ.
+- [Private Label for Pet Brands](https://www.topslowfeeder.com/for-pet-brands.html): Private label and exclusive product development for pet brand owners. From private label to fully custom product design.
+- [Wholesale Supply](https://www.topslowfeeder.com/for-wholesalers.html): Wholesale silicone pet products for distributors. Stable supply chain, competitive pricing, flexible MOQ, fast restocking.
+
+## Company
+
+- [About Us](https://www.topslowfeeder.com/about.html): Shenzhen Qidian Electronic Technology Co., Ltd. — silicone pet product manufacturer and supplier in Shenzhen, Guangdong, China.
+- [Blog](https://www.topslowfeeder.com/blog/): Pet industry insights on silicone pet products, OEM/ODM manufacturing, and wholesale sourcing.
+- [Contact](https://www.topslowfeeder.com/contact.html): Inquiry form, email, WhatsApp.
+
+## Contact
+
+- Sales Manager: Marvin Bai
+- Email: marvin@szqidian.net
+- WhatsApp / Phone: +86 159 1412 0274
+- Company: Shenzhen Qidian Electronic Technology Co., Ltd.
+- Address: 新桥大围七路7号2楼起点电子, Xinqiao Street, Baoan District, Shenzhen, Guangdong, China
+- Website: https://www.topslowfeeder.com
+- Response time: within 12 hours on business days
+
+## Site Structure
+
+- Home: https://www.topslowfeeder.com/
+- Products index: https://www.topslowfeeder.com/products/ (4 product detail pages — slow feeder mats, dog lick mat, slow feeder bowl)
+- OEM/ODM: https://www.topslowfeeder.com/oem-odm.html
+- Solutions: /for-amazon-sellers.html, /for-pet-brands.html, /for-wholesalers.html
+- About: https://www.topslowfeeder.com/about.html
+- Blog: https://www.topslowfeeder.com/blog/ with 3 published posts on slow feeder products and sourcing guides
+- Contact: https://www.topslowfeeder.com/contact.html
+- Privacy Policy: https://www.topslowfeeder.com/privacy-policy.html
+
+## Notes for AI Crawlers
+
+- All silicone products use food-contact safe materials; certification documents (FDA, LFGB) available upon request.
+- MOQ is flexible and confirmed per product — contact for specific MOQ.
+- Sample lead time ~7 days; bulk production 15–25 days after sample approval.
+- We serve wholesale buyers, pet brand owners, and Amazon FBA sellers across Europe and North America.
+- Currency: USD. Payment: bank T/T transfer and Alibaba International orders.
