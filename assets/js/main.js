@@ -12,10 +12,8 @@ if (toggle && nav) {
   nav.querySelectorAll('.has-dropdown > a').forEach(link => {
     link.addEventListener('click', e => {
       if (window.innerWidth <= 768) {
-        if (!link.parentElement.classList.contains('open')) {
-          e.preventDefault();
-          link.parentElement.classList.toggle('open');
-        }
+        e.preventDefault();
+        link.parentElement.classList.toggle('open');
       }
     });
   });
