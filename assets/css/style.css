@@ -821,7 +821,8 @@ ul { list-style: none; }
   .trust-item strong { font-size: 1.4rem; }
   .why-grid { grid-template-columns: 1fr; gap: 16px; }
   .oem-highlight-inner { grid-template-columns: 1fr; }
-  .oem-image { display: none; }
+  .oem-image { display: block; }
+  .oem-image img { width: 100%; height: auto; }
   .contact-cta-inner { grid-template-columns: 1fr; }
   .contact-info { min-width: auto; }
   .footer-inner { grid-template-columns: 1fr; gap: 24px; }
