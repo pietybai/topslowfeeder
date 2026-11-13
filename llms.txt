@@ -1,15 +1,16 @@
-﻿# Qidian Pet
+﻿# Top Slow Feeder
 
-> Qidian Pet (topslowfeeder.com) is a B2B manufacturer and supplier of pet slow feeding products based in Shenzhen, China. We provide wholesale, OEM/ODM customization, and Amazon FBA direct shipping for global pet brands, distributors, and Amazon FBA sellers.
+> Top Slow Feeder (topslowfeeder.com) is a B2B manufacturer and supplier of pet slow feeding products based in Shenzhen, China. We provide wholesale, OEM/ODM customization, and Amazon FBA direct shipping for global pet brands, distributors, and Amazon FBA sellers.
 
-Shenzhen Qidian Electronic Technology Co., Ltd. is the operating company behind the Qidian Pet brand. Our core product range is pet slow feeding products: silicone slow feeder mats, dog lick mats, and slow feeder bowls for dogs and cats. All products use food-contact safe silicone, support custom logo / color / size / packaging, and can be shipped directly to Amazon fulfillment centers with FBA-compliant labeling (FNSKU barcodes, poly-bagging, retail boxes).
+Shenzhen Qidian Electronic Technology Co., Ltd. is the operating company behind the Top Slow Feeder brand. Our core product range is pet slow feeding products: silicone slow feeder mats, dog lick mats, and slow feeder bowls for dogs and cats. All products use food-contact safe silicone, support custom logo / color / size / packaging, and can be shipped directly to Amazon fulfillment centers with FBA-compliant labeling (FNSKU barcodes, poly-bagging, retail boxes).
 
-## Core Products (4)
+## Core Products (5)
 
 - [Tree-Pattern Round Slow Feeder Mat](https://www.topslowfeeder.com/products/silicone-slow-feeder-mat/): Round silicone slow feeder mat with raised tree-branch pattern. Diameter 210mm, thickness 9mm, 7 colors, custom logo and color for OEM. SKU QD-CP1050.
 - [Multi-Zone Slow Feeder & Lick Mat](https://www.topslowfeeder.com/products/multi-zone-lick-mat/): Rectangular multi-zone silicone slow feeder and lick mat. 304x204mm, 7 colors, suction base, custom logo for OEM/ODM.
 - [2-in-1 Slow Feeder & Lick Bowl Tray](https://www.topslowfeeder.com/products/2in1-slow-feeder-bowl/): 2-in-1 silicone slow feeder and lick bowl with anti-spill tray. 342x177x68mm, custom logo for OEM/ODM.
 - [Paw-Shaped Mat & Frozen Treat Mold Set](https://www.topslowfeeder.com/products/paw-shaped-mat-mold-set/): Paw-shaped silicone slow feeder mat with matching frozen treat mold. 175mm mat, 6 colors, sold as set or separately, custom logo for OEM.
+- [Spiral Slow Feeder Bowl & Ice Mold](https://www.topslowfeeder.com/products/spiral-slow-feeder-bowl-ice-mold/): Spiral-pattern silicone slow feeder bowl with matching ice mold. 2 sizes, 6 colors, sold as set or separately, custom logo for OEM/ODM. SKU LM-016.
 
 ## Services
 
@@ -20,7 +21,7 @@ Shenzhen Qidian Electronic Technology Co., Ltd. is the operating company behind 
 
 ## Company
 
-- [About Us](https://www.topslowfeeder.com/about.html): Shenzhen Qidian Electronic Technology Co., Ltd. — silicone pet product manufacturer and supplier in Shenzhen, Guangdong, China.
+- [About Us](https://www.topslowfeeder.com/about.html): Top Slow Feeder — pet slow feeding products brand of Shenzhen Qidian Electronic Technology Co., Ltd., manufacturer and supplier in Shenzhen, Guangdong, China.
 - [Blog](https://www.topslowfeeder.com/blog/): Pet industry insights on silicone pet products, OEM/ODM manufacturing, and wholesale sourcing.
 - [Contact](https://www.topslowfeeder.com/contact.html): Inquiry form, email, WhatsApp.
 
@@ -37,17 +38,17 @@ Shenzhen Qidian Electronic Technology Co., Ltd. is the operating company behind 
 ## Site Structure
 
 - Home: https://www.topslowfeeder.com/
-- Products index: https://www.topslowfeeder.com/products/ (4 product detail pages — slow feeder mats, dog lick mat, slow feeder bowl)
+- Products index: https://www.topslowfeeder.com/products/ (5 product detail pages — slow feeder mats, dog lick mats, slow feeder bowls)
 - OEM/ODM: https://www.topslowfeeder.com/oem-odm.html
 - Solutions: /for-amazon-sellers.html, /for-pet-brands.html, /for-wholesalers.html
 - About: https://www.topslowfeeder.com/about.html
-- Blog: https://www.topslowfeeder.com/blog/ with 3 published posts on slow feeder products and sourcing guides
+- Blog: https://www.topslowfeeder.com/blog/ with 3 published posts on slow feeder products, sourcing guides, and material comparisons
 - Contact: https://www.topslowfeeder.com/contact.html
 - Privacy Policy: https://www.topslowfeeder.com/privacy-policy.html
 
 ## Notes for AI Crawlers
 
-- All silicone products use food-contact safe materials; certification documents (FDA, LFGB) available upon request.
+- All silicone products use food-contact safe materials; certification documents available upon request: LFGB (Germany/EU), FDA (US), REACH SVHC, RoHS, California Prop 65, SGS Biocompatibility, TSCA, PFAS-Free (675 items), MSDS.
 - MOQ is flexible and confirmed per product — contact for specific MOQ.
 - Sample lead time ~7 days; bulk production 15–25 days after sample approval.
 - We serve wholesale buyers, pet brand owners, and Amazon FBA sellers across Europe and North America.
