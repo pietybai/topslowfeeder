@@ -25,7 +25,17 @@
     "brand": { "@type": "Brand", "name": "Top Slow Feeder" },
     "manufacturer": { "@type": "Organization", "name": "Shenzhen Qidian Electronic Technology Co., Ltd." },
     "image": "https://www.topslowfeeder.com/assets/images/products/dog-licking-ball-bowl-slow-feeder-main.webp",
-    "sku": "DB-001"
+    "sku": "DB-001",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://www.topslowfeeder.com/products/dog-licking-ball-slow-feeder-bowl/",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Shenzhen Qidian Electronic Technology Co., Ltd."
+      }
+    }
   }
   </script>
   <script type="application/ld+json">
@@ -289,5 +299,6 @@
 
   <script src="../../assets/js/config.js"></script>
   <script src="../../assets/js/main.js"></script>
+  <script>document.querySelectorAll('.moq-display').forEach(function(el){el.textContent=SITE_CONFIG.moq+' pcs';});</script>
 </body>
 </html>
