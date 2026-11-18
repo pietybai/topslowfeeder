@@ -32,16 +32,16 @@ Shenzhen Qidian Electronic Technology Co., Ltd. is the operating company behind 
 
 ## Services
 
-- [OEM/ODM Service](https://www.topslowfeeder.com/oem-odm.html): Full customization — custom logo & branding, color (Pantone match), size, material, packaging. Sample in ~7 days, bulk production 15–25 days after sample approval.
-- [Amazon FBA Supply](https://www.topslowfeeder.com/for-amazon-sellers.html): FBA-ready fulfillment. FNSKU barcode application, poly-bagging / retail box packaging, carton labeling, direct shipment to Amazon FCs in US, UK, EU. Low MOQ.
-- [Private Label for Pet Brands](https://www.topslowfeeder.com/for-pet-brands.html): Private label and exclusive product development for pet brand owners. From private label to fully custom product design.
-- [Wholesale Supply](https://www.topslowfeeder.com/for-wholesalers.html): Wholesale silicone pet products for distributors. Stable supply chain, competitive pricing, flexible MOQ, fast restocking.
+- [OEM/ODM Service](https://www.topslowfeeder.com/oem-odm): Full customization — custom logo & branding, color (Pantone match), size, material, packaging. Sample in ~7 days, bulk production 15–25 days after sample approval.
+- [Amazon FBA Supply](https://www.topslowfeeder.com/for-amazon-sellers): FBA-ready fulfillment. FNSKU barcode application, poly-bagging / retail box packaging, carton labeling, direct shipment to Amazon FCs in US, UK, EU. Low MOQ.
+- [Private Label for Pet Brands](https://www.topslowfeeder.com/for-pet-brands): Private label and exclusive product development for pet brand owners. From private label to fully custom product design.
+- [Wholesale Supply](https://www.topslowfeeder.com/for-wholesalers): Wholesale silicone pet products for distributors. Stable supply chain, competitive pricing, flexible MOQ, fast restocking.
 
 ## Company
 
-- [About Us](https://www.topslowfeeder.com/about.html): Top Slow Feeder — pet slow feeding products brand of Shenzhen Qidian Electronic Technology Co., Ltd., manufacturer and supplier in Shenzhen, Guangdong, China.
+- [About Us](https://www.topslowfeeder.com/about): Top Slow Feeder — pet slow feeding products brand of Shenzhen Qidian Electronic Technology Co., Ltd., manufacturer and supplier in Shenzhen, Guangdong, China.
 - [Blog](https://www.topslowfeeder.com/blog/): Pet industry insights on silicone pet products, OEM/ODM manufacturing, and wholesale sourcing.
-- [Contact](https://www.topslowfeeder.com/contact.html): Inquiry form, email, WhatsApp.
+- [Contact](https://www.topslowfeeder.com/contact): Inquiry form, email, WhatsApp.
 
 ## Contact
 
@@ -56,12 +56,12 @@ Shenzhen Qidian Electronic Technology Co., Ltd. is the operating company behind 
 
 - Home: https://www.topslowfeeder.com/
 - Products index: https://www.topslowfeeder.com/products/ (11 product detail pages — slow feeder mats, dog lick mats, slow feeder bowls)
-- OEM/ODM: https://www.topslowfeeder.com/oem-odm.html
-- Solutions: /for-amazon-sellers.html, /for-pet-brands.html, /for-wholesalers.html
-- About: https://www.topslowfeeder.com/about.html
+- OEM/ODM: https://www.topslowfeeder.com/oem-odm
+- Solutions: /for-amazon-sellers, /for-pet-brands, /for-wholesalers
+- About: https://www.topslowfeeder.com/about
 - Blog: https://www.topslowfeeder.com/blog/ with 4 published posts on slow feeder products, sourcing guides, and material comparisons
-- Contact: https://www.topslowfeeder.com/contact.html
-- Privacy Policy: https://www.topslowfeeder.com/privacy-policy.html
+- Contact: https://www.topslowfeeder.com/contact
+- Privacy Policy: https://www.topslowfeeder.com/privacy-policy
 
 ## Notes for AI Crawlers
 
