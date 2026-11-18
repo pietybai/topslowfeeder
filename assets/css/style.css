@@ -960,7 +960,10 @@ ul { list-style: none; }
 }
 
 /* ── 首页博客卡片：等高布局，Read Article 按钮贴底 ───────── */
-.blog-grid { align-items: stretch; }
+.blog-grid { align-items: stretch; grid-template-columns: repeat(2, 1fr); }
+@media (max-width: 900px) {
+  .blog-grid { grid-template-columns: 1fr; }
+}
 .blog-grid .product-card > a {
   display: flex;
   flex-direction: column;
