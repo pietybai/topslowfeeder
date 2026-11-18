@@ -125,6 +125,15 @@ ul { list-style: none; }
   gap: 24px;
 }
 
+.topbar-wa { white-space: nowrap; }
+.reply-short { display: none; }
+@media (max-width: 768px) {
+  .topbar { gap: 8px; padding: 8px 14px; font-size: 0.8rem; }
+  .topbar-email { display: none; }
+  .reply-long { display: none; }
+  .reply-short { display: inline; }
+}
+
 /* ---- Header ---- */
 .site-header {
   background: var(--white);
