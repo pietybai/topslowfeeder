@@ -302,6 +302,10 @@ ul { list-style: none; }
   grid-template-columns: repeat(4, 1fr);
   gap: 24px;
 }
+/* 相关推荐固定 3 列（桌面），平板 2 列、手机 1 列由下面的 media query 接管 */
+.related-grid {
+  grid-template-columns: repeat(3, 1fr);
+}
 .product-card {
   border: 1px solid var(--border);
   border-radius: 12px;
@@ -987,4 +991,20 @@ ul { list-style: none; }
 .blog-grid .product-info .btn {
   margin-top: auto;
   align-self: flex-start;
+}
+
+/* ---- Related products on phones: swipeable row (keeps CTA close) ---- */
+@media (max-width: 640px) {
+  .related-grid {
+    display: flex;
+    gap: 12px;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    padding-bottom: 10px;
+    -webkit-overflow-scrolling: touch;
+  }
+  .related-grid .product-card {
+    flex: 0 0 78%;
+    scroll-snap-align: start;
+  }
 }
