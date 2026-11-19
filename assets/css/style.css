@@ -839,12 +839,14 @@ ul { list-style: none; }
 @media (max-width: 768px) {
   .section { padding: 48px 0; }
   .section-title { font-size: 1.6rem; }
-  .hero { padding: 48px 0; }
+  .hero { padding: 32px 0; }
   .hero-inner { grid-template-columns: 1fr; gap: 32px; }
   .hero-image { display: none; }
   .hero-text h1 { font-size: 1.75rem; }
-  .trust-bar-inner { gap: 20px; }
-  .trust-item strong { font-size: 1.4rem; }
+  .trust-bar { padding: 24px 0; }
+  .trust-bar-inner { display: grid; grid-template-columns: 1fr 1fr; gap: 18px 12px; }
+  .trust-item strong { font-size: 1.5rem; }
+  .trust-item--optional { display: none; }
   .why-grid { grid-template-columns: 1fr; gap: 16px; }
   .oem-highlight-inner { grid-template-columns: 1fr; }
   .oem-image { display: block; }
