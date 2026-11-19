@@ -4,6 +4,11 @@
 
 Shenzhen Qidian Electronic Technology Co., Ltd. is the operating company behind the Top Slow Feeder brand. Our core product range is pet slow feeding products: silicone slow feeder mats, dog lick mats, and slow feeder bowls for dogs and cats. All products use food-contact safe silicone, support custom logo / color / size / packaging, and can be shipped directly to Amazon fulfillment centers with FBA-compliant labeling (FNSKU barcodes, poly-bagging, retail boxes).
 
+## Categories
+
+- [Silicone Lick Mats](https://www.topslowfeeder.com/products/silicone-lick-mats/): 7 products.
+- [Silicone Slow Feeders](https://www.topslowfeeder.com/products/silicone-slow-feeders/): 7 products.
+
 ## Core Products (14)
 
 ### Silicone Lick Mats & Slow Feeder Mats
@@ -59,7 +64,7 @@ Shenzhen Qidian Electronic Technology Co., Ltd. is the operating company behind 
 ## Site Structure
 
 - Home: https://www.topslowfeeder.com/
-- Products index: https://www.topslowfeeder.com/products/ (14 product detail pages — slow feeder mats, dog lick mats, slow feeder bowls)
+- Products index: https://www.topslowfeeder.com/products/ (14 product detail pages, split into 2 categories: Silicone Lick Mats and Silicone Slow Feeders)
 - OEM/ODM: https://www.topslowfeeder.com/oem-odm
 - Solutions: /for-amazon-sellers, /for-pet-brands, /for-wholesalers
 - About: https://www.topslowfeeder.com/about
