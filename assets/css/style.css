@@ -262,6 +262,23 @@ ul { list-style: none; }
   margin-bottom: 36px;
   line-height: 1.5;
 }
+.hero-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 18px;
+  padding: 0;
+  list-style: none;
+}
+.hero-chips li {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 5px 12px;
+  white-space: nowrap;
+}
 .hero-ctas { display: flex; gap: 16px; flex-wrap: wrap; }
 .hero-image {
   /* Reserve space before image loads to prevent CLS */
