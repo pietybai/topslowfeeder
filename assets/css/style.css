@@ -1058,3 +1058,9 @@ ul { list-style: none; }
     scroll-snap-align: start;
   }
 }
+
+/* ---- Nav category counts + footer groups ---- */
+.nav-count { color: var(--text-muted); font-weight: 400; font-size: 0.85em; }
+.footer-links li.footer-group { margin-top: 10px; }
+.footer-links li.footer-group:first-child { margin-top: 0; }
+.footer-links li.footer-group a { color: var(--white); opacity: 0.95; }
