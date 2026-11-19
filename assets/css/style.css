@@ -432,6 +432,7 @@ ul { list-style: none; }
   border-radius: 10px;
   margin: -8px 0 16px;
 }
+.why-photo--wide { aspect-ratio: 16 / 9; }
 .why-item h3 {
   font-size: 1rem;
   font-weight: 700;
