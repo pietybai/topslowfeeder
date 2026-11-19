@@ -4,7 +4,7 @@
 
 Shenzhen Qidian Electronic Technology Co., Ltd. is the operating company behind the Top Slow Feeder brand. Our core product range is pet slow feeding products: silicone slow feeder mats, dog lick mats, and slow feeder bowls for dogs and cats. All products use food-contact safe silicone, support custom logo / color / size / packaging, and can be shipped directly to Amazon fulfillment centers with FBA-compliant labeling (FNSKU barcodes, poly-bagging, retail boxes).
 
-## Core Products (11)
+## Core Products (12)
 
 ### Silicone Slow Feeder Mats & Dog Lick Mats
 
@@ -13,6 +13,7 @@ Shenzhen Qidian Electronic Technology Co., Ltd. is the operating company behind 
 - [Square Silicone Lick Mat with Suction Cups](https://www.topslowfeeder.com/products/square-silicone-lick-mat/): S 15.5 cm · L 20 cm · 6 colors · suction base · SKU LM-004.
 - [20cm Square Silicone Slow Feeder Mat with Suction Cups](https://www.topslowfeeder.com/products/square-slow-feeder-mat/): 20 × 20 cm · 64 suction cups · Grey / Blue · SKU LM-005.
 - [Silicone Lick Mat with Scraper and Suction Cups](https://www.topslowfeeder.com/products/lick-mat-with-scraper/): S 15 cm · L 21 cm · scraper included · Blue / Orange · SKU LM-006.
+- [Silicone Dog Lick Mat with Suction Cups](https://www.topslowfeeder.com/products/dog-lick-mat-with-suction-cups/): 185 × 155 mm · 3 textures · suction base · 4 colours · SKU LM-007 · SKU LM-007.
 
 ### Slow Feeder Bowls
 
@@ -56,7 +57,7 @@ Shenzhen Qidian Electronic Technology Co., Ltd. is the operating company behind 
 ## Site Structure
 
 - Home: https://www.topslowfeeder.com/
-- Products index: https://www.topslowfeeder.com/products/ (11 product detail pages — slow feeder mats, dog lick mats, slow feeder bowls)
+- Products index: https://www.topslowfeeder.com/products/ (12 product detail pages — slow feeder mats, dog lick mats, slow feeder bowls)
 - OEM/ODM: https://www.topslowfeeder.com/oem-odm
 - Solutions: /for-amazon-sellers, /for-pet-brands, /for-wholesalers
 - About: https://www.topslowfeeder.com/about
