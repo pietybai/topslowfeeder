@@ -4,7 +4,7 @@
 
 Shenzhen Qidian Electronic Technology Co., Ltd. is the operating company behind the Top Slow Feeder brand. Our core product range is pet slow feeding products: silicone slow feeder mats, dog lick mats, and slow feeder bowls for dogs and cats. All products use food-contact safe silicone, support custom logo / color / size / packaging, and can be shipped directly to Amazon fulfillment centers with FBA-compliant labeling (FNSKU barcodes, poly-bagging, retail boxes).
 
-## Core Products (12)
+## Core Products (13)
 
 ### Silicone Slow Feeder Mats & Dog Lick Mats
 
@@ -23,6 +23,7 @@ Shenzhen Qidian Electronic Technology Co., Ltd. is the operating company behind 
 - [Dog Licking Ball & Rolling Slow Feeder Bowl](https://www.topslowfeeder.com/products/dog-licking-ball-slow-feeder-bowl/): S: 170g · L: 335g · 5 colors · Suction base · SKU DB-001.
 - [2-in-1 Foldable Silicone Slow Feeder Bowl](https://www.topslowfeeder.com/products/foldable-slow-feeder-bowl/): Folded 17 × 15.5 cm · 385 g · 5 colors · 2-in-1 slow feeder + water bowl · SKU DB-002.
 - [Paw-Shaped Silicone Slow Feeder Insert for Dog Bowls](https://www.topslowfeeder.com/products/slow-feeder-insert/): Ø175 / Ø160 mm · cut-to-fit insert · + frozen treat mold · 6 colors · SKU LM-021.
+- [Silicone Slow Feeder Bowl Insert with Petal Dividers](https://www.topslowfeeder.com/products/slow-feeder-bowl-insert/): 120 × 120 × 45 mm · petal dividers · fits 4 bowl types · 4 colours · SKU DB-03 · SKU DB-03.
 
 ## Blog (5 posts, newest first)
 
@@ -57,7 +58,7 @@ Shenzhen Qidian Electronic Technology Co., Ltd. is the operating company behind 
 ## Site Structure
 
 - Home: https://www.topslowfeeder.com/
-- Products index: https://www.topslowfeeder.com/products/ (12 product detail pages — slow feeder mats, dog lick mats, slow feeder bowls)
+- Products index: https://www.topslowfeeder.com/products/ (13 product detail pages — slow feeder mats, dog lick mats, slow feeder bowls)
 - OEM/ODM: https://www.topslowfeeder.com/oem-odm
 - Solutions: /for-amazon-sellers, /for-pet-brands, /for-wholesalers
 - About: https://www.topslowfeeder.com/about
