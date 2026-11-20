@@ -1094,10 +1094,10 @@ ul { list-style: none; }
   .facility-cards { grid-template-columns: 1fr; gap: 18px; }
 }
 
-/* OEM colour & packaging block */
-.oem-visual-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 26px; margin-top: 10px; }
-.oem-visual { background: #fff; border: 1px solid var(--border); border-radius: var(--radius); overflow: hidden; }
-.oem-visual img { width: 100%; height: auto; display: block; }
-.oem-visual h3 { font-size: 1.05rem; color: var(--navy); margin: 18px 20px 8px; }
-.oem-visual p { margin: 0 20px 22px; font-size: 0.92rem; line-height: 1.6; color: var(--text-muted); }
-@media (max-width: 760px) { .oem-visual-grid { grid-template-columns: 1fr; gap: 20px; } }
+/* OEM customize cards with photo media */
+.why-grid--media .why-item { padding: 0 0 26px; overflow: hidden; }
+.why-media { aspect-ratio: 3 / 2; display: flex; align-items: center; justify-content: center; background: var(--bg-section); margin-bottom: 18px; }
+.why-media img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.why-media span { font-size: 2.4rem; }
+.why-grid--media h3 { padding: 0 22px; }
+.why-grid--media p { padding: 0 22px; }
