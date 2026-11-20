@@ -1092,3 +1092,7 @@ ul { list-style: none; }
   .plant-stats { grid-template-columns: repeat(2, 1fr); }
   .plant-list img { width: 44px; height: 44px; flex-basis: 44px; }
 }
+
+/* Footer social link */
+.footer-social { display: inline-flex; align-items: center; gap: 7px; margin-top: 10px; font-size: 0.85rem; color: var(--white); opacity: 0.8; transition: opacity var(--transition); }
+.footer-social:hover { opacity: 1; }
