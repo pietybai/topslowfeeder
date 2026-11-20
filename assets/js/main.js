@@ -53,7 +53,19 @@ if (contactForm) {
       if (data.success) {
         msgDiv.style.cssText += 'background:#e6f4ea;color:#1e7e34;border:1px solid #a8d5b0;display:block;';
         msgDiv.textContent = '✓ Your inquiry has been sent. We\'ll reply within 12 hours on business days.';
+        // Lead measured only after the server confirms the submission (no PII sent).
+        if (typeof gtag === 'function') {
+          const fd = new FormData(contactForm);
+          gtag('event', 'generate_lead', {
+            form_id: 'contact_form',
+            product_interest: fd.get('product') || 'not_selected',
+            sku: fd.get('sku') || 'none',
+            source_page: fd.get('source_page') || 'contact'
+          });
+        }
         contactForm.reset();
+        const skuNote = document.getElementById('skuNote');
+        if (skuNote) { skuNote.style.display = 'none'; skuNote.textContent = ''; }
         submitBtn.textContent = 'Sent';
       } else {
         throw new Error('failed');
