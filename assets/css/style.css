@@ -1093,6 +1093,26 @@ ul { list-style: none; }
   .plant-list img { width: 44px; height: 44px; flex-basis: 44px; }
 }
 
-/* Footer social link */
-.footer-social { display: inline-flex; align-items: center; gap: 7px; margin-top: 10px; font-size: 0.85rem; color: var(--white); opacity: 0.8; transition: opacity var(--transition); }
-.footer-social:hover { opacity: 1; }
+/* Instagram: floating badge + footer follow row */
+.insta-float {
+  position: fixed; bottom: 96px; right: 28px; width: 52px; height: 52px;
+  display: flex; align-items: center; justify-content: center; color: #fff;
+  border-radius: 50%; z-index: 999;
+  background: linear-gradient(45deg, #F58529 0%, #DD2A7B 52%, #8134AF 100%);
+  box-shadow: 0 6px 18px rgba(221, 42, 123, 0.35), 0 2px 6px rgba(0,0,0,0.18);
+  transition: transform var(--transition), filter var(--transition);
+}
+.insta-float:hover { transform: translateY(-2px) scale(1.05); filter: brightness(1.08); }
+.social-follow { display: flex; align-items: center; gap: 10px; margin-top: 16px; }
+.social-follow-label { font-size: 0.78rem; letter-spacing: 0.04em; text-transform: uppercase; color: rgba(255,255,255,0.55); }
+.social-badge {
+  display: inline-flex; align-items: center; justify-content: center; width: 34px; height: 34px;
+  border-radius: 50%; color: #fff;
+  background: linear-gradient(45deg, #F58529 0%, #DD2A7B 52%, #8134AF 100%);
+  box-shadow: 0 2px 8px rgba(221,42,123,0.3);
+  transition: transform var(--transition), filter var(--transition);
+}
+.social-badge:hover { transform: translateY(-1px); filter: brightness(1.08); }
+@media (max-width: 768px) {
+  .insta-float { display: none; }
+}
