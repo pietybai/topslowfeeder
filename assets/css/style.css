@@ -1064,3 +1064,11 @@ ul { list-style: none; }
 .footer-links li.footer-group { margin-top: 10px; }
 .footer-links li.footer-group:first-child { margin-top: 0; }
 .footer-links li.footer-group a { color: var(--white); opacity: 0.95; }
+
+/* Facility gallery (About page) */
+.facility-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px; }
+.facility-item { margin: 0; }
+.facility-item img { width: 100%; height: auto; display: block; border-radius: var(--radius); }
+.facility-item figcaption { margin-top: 10px; font-size: 0.9rem; line-height: 1.55; color: var(--text-muted); }
+.facility-item figcaption strong { display: block; color: var(--navy); margin-bottom: 4px; font-size: 0.95rem; }
+@media (max-width: 768px) { .facility-grid { grid-template-columns: 1fr; gap: 20px; } }
