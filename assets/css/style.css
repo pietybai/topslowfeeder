@@ -1071,4 +1071,5 @@ ul { list-style: none; }
 .facility-item img { width: 100%; height: auto; display: block; border-radius: var(--radius); }
 .facility-item figcaption { margin-top: 10px; font-size: 0.9rem; line-height: 1.55; color: var(--text-muted); }
 .facility-item figcaption strong { display: block; color: var(--navy); margin-bottom: 4px; font-size: 0.95rem; }
+.facility-item--wide { grid-column: 1 / -1; }
 @media (max-width: 768px) { .facility-grid { grid-template-columns: 1fr; gap: 20px; } }
