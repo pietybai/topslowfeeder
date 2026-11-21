@@ -6,10 +6,10 @@ Shenzhen Qidian Electronic Technology Co., Ltd. is the operating company behind 
 
 ## Categories
 
-- [Silicone Lick Mats](https://www.topslowfeeder.com/products/silicone-lick-mats/): 7 products.
+- [Silicone Lick Mats](https://www.topslowfeeder.com/products/silicone-lick-mats/): 8 products.
 - [Silicone Slow Feeders](https://www.topslowfeeder.com/products/silicone-slow-feeders/): 8 products.
 
-## Core Products (15)
+## Core Products (16)
 
 ### Silicone Lick Mats & Slow Feeder Mats
 
@@ -20,6 +20,7 @@ Shenzhen Qidian Electronic Technology Co., Ltd. is the operating company behind 
 - [Silicone Lick Mat with Scraper and Suction Cups](https://www.topslowfeeder.com/products/lick-mat-with-scraper/): S 15 cm · L 21 cm · scraper included · Blue / Orange · SKU LM-006.
 - [Silicone Dog Lick Mat with Suction Cups](https://www.topslowfeeder.com/products/dog-lick-mat-with-suction-cups/): 185 × 155 mm · 3 textures · suction base · 4 colours · SKU LM-007.
 - [Semicircular Silicone Pet Lick Mat with Maze Texture](https://www.topslowfeeder.com/products/semicircular-silicone-lick-mat/): 22 × 19 cm · maze texture · 270 g · 3 colours · SKU LM-008.
+- [Shield-Shaped Silicone Slow Feeder Mat](https://www.topslowfeeder.com/products/shield-shaped-slow-feeder-mat/): 19 × 17.5 cm · maze channels · 305 g · 3 colours · SKU LM-012.
 
 ### Silicone Slow Feeders — Bowls & Inserts
 
@@ -67,7 +68,7 @@ Shenzhen Qidian Electronic Technology Co., Ltd. is the operating company behind 
 ## Site Structure
 
 - Home: https://www.topslowfeeder.com/
-- Products index: https://www.topslowfeeder.com/products/ (15 product detail pages, split into 2 categories: Silicone Lick Mats and Silicone Slow Feeders)
+- Products index: https://www.topslowfeeder.com/products/ (16 product detail pages, split into 2 categories: Silicone Lick Mats and Silicone Slow Feeders)
 - OEM/ODM: https://www.topslowfeeder.com/oem-odm
 - Solutions: /for-amazon-sellers, /for-pet-brands, /for-wholesalers
 - About: https://www.topslowfeeder.com/about
