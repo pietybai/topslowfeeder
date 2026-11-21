@@ -1137,3 +1137,16 @@ ul { list-style: none; }
 .post-links a:hover { color: var(--orange); }
 .post-links span { color: var(--text-muted); }
 @media (max-width: 700px) { .post-links ul { grid-template-columns: 1fr; } }
+
+/* Gallery thumbnails: keyboard focus */
+.product-thumbs img:focus-visible { outline: 3px solid var(--orange); outline-offset: 2px; }
+.product-thumbs img { cursor: pointer; }
+
+/* Mobile: product name, SKU, MOQ and quote button under the main image */
+.product-quick { display: none; }
+@media (max-width: 768px) {
+  .product-quick { display: block; margin: 14px 0 6px; }
+  .product-quick-name { font-size: 1.05rem; font-weight: 700; color: var(--navy); margin: 0 0 4px; line-height: 1.35; }
+  .product-quick-meta { font-size: 0.82rem; color: var(--text-muted); margin: 0 0 10px; }
+  .product-quick .btn { width: 100%; justify-content: center; }
+}

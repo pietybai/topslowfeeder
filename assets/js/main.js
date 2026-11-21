@@ -19,15 +19,44 @@ if (toggle && nav) {
   });
 }
 
-// Product gallery thumbnail switcher
+// Product gallery thumbnail switcher (click + keyboard, alt kept in sync)
 const mainImg = document.querySelector('.product-main-img img');
-const thumbs = document.querySelectorAll('.product-thumbs img');
+const thumbs = Array.from(document.querySelectorAll('.product-thumbs img'));
+
+function selectThumb(thumb) {
+  if (!mainImg) return;
+  mainImg.src = thumb.currentSrc || thumb.src;
+  if (thumb.alt) mainImg.alt = thumb.alt;
+  thumbs.forEach(t => {
+    const on = t === thumb;
+    t.classList.toggle('active', on);
+    t.setAttribute('aria-current', on ? 'true' : 'false');
+  });
+}
 
 thumbs.forEach(thumb => {
-  thumb.addEventListener('click', () => {
-    if (mainImg) mainImg.src = thumb.src;
-    thumbs.forEach(t => t.classList.remove('active'));
-    thumb.classList.add('active');
+  thumb.setAttribute('tabindex', '0');
+  thumb.setAttribute('role', 'button');
+  thumb.setAttribute('aria-current', thumb.classList.contains('active') ? 'true' : 'false');
+  thumb.addEventListener('click', () => selectThumb(thumb));
+  thumb.addEventListener('keydown', e => {
+    if (e.key === 'Enter' || e.key === ' ') {
+      e.preventDefault();
+      selectThumb(thumb);
+    }
+  });
+});
+
+// WhatsApp click tracking (form leads are tracked on submit, this covers chat)
+document.querySelectorAll('a[href*="wa.me"], a[href*="whatsapp.com"]').forEach(link => {
+  link.addEventListener('click', () => {
+    if (typeof gtag !== 'function') return;
+    const page = document.querySelector('h1');
+    gtag('event', 'whatsapp_click', {
+      page_title: page ? page.textContent.trim() : document.title,
+      page_path: window.location.pathname,
+      link_text: (link.textContent || link.getAttribute('aria-label') || 'whatsapp').trim().slice(0, 40)
+    });
   });
 });
 
