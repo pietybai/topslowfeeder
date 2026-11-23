@@ -1021,6 +1021,29 @@ ul { list-style: none; }
   line-height: 1.5;
 }
 
+.cert-meta {
+  font-size: 0.8125rem;
+  color: var(--navy);
+  line-height: 1.6;
+  margin-bottom: 8px;
+}
+
+.cert-note {
+  font-size: 0.8125rem;
+  color: var(--text-muted);
+  line-height: 1.55;
+}
+
+.cert-footer {
+  text-align: center;
+  margin-top: 32px;
+  font-size: 0.95rem;
+  color: var(--text-muted);
+}
+
+.cert-footer a { color: var(--navy); text-decoration: underline; }
+.cert-footer a:hover { color: var(--orange); }
+
 @media (max-width: 900px) {
   .cert-grid { grid-template-columns: repeat(2, 1fr); gap: 20px; }
 }
