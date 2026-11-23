@@ -441,6 +441,40 @@ ul { list-style: none; }
 }
 .why-item p { font-size: 0.9rem; color: var(--text-muted); }
 
+/* ---- Why Us: factory facts strip ---- */
+.why-facts {
+  margin-top: 32px;
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-top: 3px solid var(--orange);
+  border-radius: 12px;
+  padding: 28px 32px;
+  box-shadow: var(--shadow);
+}
+.why-facts h3 {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--navy);
+  margin-bottom: 10px;
+}
+.why-facts-lead {
+  font-size: 1rem;
+  line-height: 1.7;
+  color: var(--text);
+  max-width: 760px;
+}
+.why-facts-lead strong { color: var(--navy); font-weight: 700; }
+.why-facts-cert {
+  margin-top: 10px;
+  font-size: 0.9rem;
+  line-height: 1.6;
+  color: var(--text-muted);
+  max-width: 820px;
+}
+.why-facts-cert a { color: var(--navy); text-decoration: underline; }
+.why-facts-cert a:hover { color: var(--orange); }
+.why-facts .btn { margin-top: 18px; }
+
 /* ---- OEM Highlight ---- */
 .oem-highlight { background: var(--white); }
 .oem-highlight-inner {
@@ -887,6 +921,8 @@ ul { list-style: none; }
   .trust-item strong { font-size: 1.5rem; }
   .trust-item--optional { display: none; }
   .why-grid { grid-template-columns: 1fr; gap: 16px; }
+  .why-facts { margin-top: 24px; padding: 22px 18px; }
+  .why-facts-lead { font-size: 0.95rem; }
   .oem-highlight-inner { grid-template-columns: 1fr; }
   .oem-image { display: block; }
   .oem-image img { width: 100%; height: auto; }
