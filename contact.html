@@ -94,7 +94,8 @@
 
         <!-- Inquiry Form -->
         <div>
-          <h2 style="font-size:1.4rem;color:var(--navy);margin-bottom:24px;">Send an Inquiry</h2>
+          <h2 style="font-size:1.4rem;color:var(--navy);margin-bottom:8px;">Send an Inquiry</h2>
+          <p style="font-size:0.875rem;color:var(--text-muted);margin-bottom:20px;">Only email and product are required — anything else just helps us quote faster.</p>
           <form
             action="https://api.web3forms.com/submit"
             method="POST"
@@ -106,8 +107,8 @@
             <input type="hidden" name="subject" value="New Inquiry from Top Slow Feeder Website" />
             <input type="hidden" name="redirect" value="false" />
             <div class="form-group">
-              <label for="name">Your Name <span class="required">*</span></label>
-              <input type="text" id="name" name="name" placeholder="John Smith" required />
+              <label for="name">Your Name</label>
+              <input type="text" id="name" name="name" placeholder="John Smith" />
             </div>
             <div class="form-group">
               <label for="email">Email Address <span class="required">*</span></label>
@@ -152,8 +153,8 @@
               <input type="text" id="quantity" name="quantity" placeholder="e.g. 500 pcs" />
             </div>
             <div class="form-group">
-              <label for="message">Message <span class="required">*</span></label>
-              <textarea id="message" name="message" placeholder="Tell us about your requirements — product specs, customization needs, target market, timeline, etc." required></textarea>
+              <label for="message">Message</label>
+              <textarea id="message" name="message" placeholder="Optional — product specs, customization needs, target market, timeline."></textarea>
             </div>
             <button type="submit" class="btn btn-primary btn-lg" style="width:100%;justify-content:center;">
               Send Inquiry
