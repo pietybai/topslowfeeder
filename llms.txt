@@ -6,10 +6,10 @@ Shenzhen Qidian Electronic Technology Co., Ltd. is the operating company behind 
 
 ## Categories
 
-- [Silicone Lick Mats](https://www.topslowfeeder.com/products/silicone-lick-mats/): 8 products.
+- [Silicone Lick Mats](https://www.topslowfeeder.com/products/silicone-lick-mats/): 9 products.
 - [Silicone Slow Feeders](https://www.topslowfeeder.com/products/silicone-slow-feeders/): 9 products.
 
-## Core Products (17)
+## Core Products (18)
 
 ### Silicone Lick Mats & Slow Feeder Mats
 
@@ -21,6 +21,7 @@ Shenzhen Qidian Electronic Technology Co., Ltd. is the operating company behind 
 - [Silicone Dog Lick Mat with Suction Cups](https://www.topslowfeeder.com/products/dog-lick-mat-with-suction-cups/): 185 × 155 mm · 3 textures · suction base · 4 colours · SKU LM-007.
 - [Semicircular Silicone Pet Lick Mat with Maze Texture](https://www.topslowfeeder.com/products/semicircular-silicone-lick-mat/): 22 × 19 cm · maze texture · 270 g · 3 colours · SKU LM-008.
 - [Shield-Shaped Silicone Slow Feeder Mat](https://www.topslowfeeder.com/products/shield-shaped-slow-feeder-mat/): 19 × 17.5 cm · maze channels · 305 g · 3 colours · SKU LM-012.
+- [Fruit & Ice Cream Shaped Silicone Lick Mats](https://www.topslowfeeder.com/products/fruit-shaped-silicone-lick-mats/): 6 shapes · 9 colourways · 120–190 g · suction back · SKU LS-002.
 
 ### Silicone Slow Feeders — Bowls & Inserts
 
@@ -34,8 +35,9 @@ Shenzhen Qidian Electronic Technology Co., Ltd. is the operating company behind 
 - [Adjustable Height Silicone Cat Bowl](https://www.topslowfeeder.com/products/adjustable-height-cat-bowl/): 3 heights 87 / 96 / 105 mm · 10° tilt · 6 colours · SKU CB-001.
 - [Beaded Silicone Slow Feeder Bowl](https://www.topslowfeeder.com/products/beaded-silicone-slow-feeder-bowl/): Ø160 × 80 mm · 250 g · 5 colours · SKU DB-004.
 
-## Blog (6 posts, newest first)
+## Blog (7 posts, newest first)
 
+- [How to Read a Silicone Test Report (LFGB, FDA, REACH)](https://www.topslowfeeder.com/blog/how-to-read-silicone-test-reports/): Six fields on page one decide whether a supplier's report means anything for the product you are actually buying.
 - [What to Put on a Lick Mat for Dogs: 12 Safe Fillings and What to Avoid](https://www.topslowfeeder.com/blog/what-to-put-on-a-lick-mat-for-dogs/): Twelve fillings that work, which mat texture suits each one, what to keep off the mat, and how to fix the two complaints owners actually have.
 - [Slow Feeder Insert vs Slow Feeder Bowl: Which Should You Stock?](https://www.topslowfeeder.com/blog/slow-feeder-insert-vs-slow-feeder-bowl/): Slow feeder insert or dedicated slow feeder bowl? Compare fitment, freight, price positioning and buyer type before you place a wholesale order.
 - [Silicone vs Ceramic vs Stainless Steel Slow Feeders: Which Should You Source?](https://www.topslowfeeder.com/blog/slow-feeder-materials-comparison/): A practical sourcing guide comparing silicone, ceramic and stainless steel slow feeder materials — covering certifications, customization, return rates and which buyer type each material suits best.
@@ -82,11 +84,11 @@ Our own plant in Guangdong has been running since 2013: 5,000 m², 90+ staff, 10
 ## Site Structure
 
 - Home: https://www.topslowfeeder.com/
-- Products index: https://www.topslowfeeder.com/products/ (17 product detail pages, split into 2 categories: Silicone Lick Mats and Silicone Slow Feeders)
+- Products index: https://www.topslowfeeder.com/products/ (18 product detail pages, split into 2 categories: Silicone Lick Mats and Silicone Slow Feeders)
 - OEM/ODM: https://www.topslowfeeder.com/oem-odm
 - Solutions: /for-amazon-sellers, /for-pet-brands, /for-wholesalers
 - About: https://www.topslowfeeder.com/about
-- Blog: https://www.topslowfeeder.com/blog/ with 6 published posts on slow feeder products, sourcing guides, and material comparisons
+- Blog: https://www.topslowfeeder.com/blog/ with 7 published posts on slow feeder products, sourcing guides, and material comparisons
 - Contact: https://www.topslowfeeder.com/contact
 - Privacy Policy: https://www.topslowfeeder.com/privacy-policy
 
